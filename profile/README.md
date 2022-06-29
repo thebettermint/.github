@@ -12,5 +12,5 @@ We are XRP Ledger developers and will therefore begin the project with full inte
 - wallet creation
 - automated nft minting
 - wallet account management
-- balance and token visualizer
+- balance and token visualization
 - marketplace for trading and selling nfts 
