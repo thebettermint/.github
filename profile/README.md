@@ -1,4 +1,4 @@
-<img src="https://github.com/thebettermint/media/blob/main/assets/png/landing_alt.png" />
+<img src="https://github.com/thebettermint/media/blob/main/assets/png/landing_alt2.png" />
 
 
 TheBetterMint is an open-source initiative to promote onchain, transparent donations. 
